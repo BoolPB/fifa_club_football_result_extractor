@@ -1,0 +1,2 @@
+This scrapper extracts match results from the site http://www.fifa.com/worldfootball/worldmatchcentre/index.html
+All these club level match results. Stored match_date,home_team,away_team,result
